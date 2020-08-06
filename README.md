@@ -21,7 +21,7 @@ Please ensure you have all the above dependencies installed on your system inclu
 It can be installed via Node.js with the command "npm i -g truffle"
 
 
--[Clone](git@github.com:derekwebdevcom/SkyCloud-Exchange.git) for Mac or
+-[Clone] git@github.com:derekwebdevcom/SkyCloud-Exchange.git for Mac or
 -[Download Zip](https://github.com/derekwebdevcom/SkyCloud-Exchange/archive/master.zip) for Windows
 
 ## Quick Start
