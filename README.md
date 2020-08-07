@@ -24,10 +24,11 @@ It can be installed via Node.js with the command "npm i -g truffle"
 -[Clone] git@github.com:derekwebdevcom/SkyCloud-Exchange.git for Mac or
 -[Download Zip](https://github.com/derekwebdevcom/SkyCloud-Exchange/archive/master.zip) for Windows
 
-## Quick Start
+## Quick Start:
 
 // NPM install and Truffle Migrate to deploy your Smart Contract to your local Blockchain. Client Application ports on
  http://localhost:3000
-## Quick Start for deploying to test network visit the following link for updated information
+ 
+## Quick Deployment: for deploying to a test network visit the following link for updated information
 
  https://www.trufflesuite.com/tutorials/using-infura-custom-provider
