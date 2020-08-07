@@ -6,7 +6,7 @@ ERC-20 Instant Crypto Exchange on the Ethereum Blockchain
 
 # Live Demo with Metamask Extension
 
-http://skycloud-exchange.derekwebdev.com/#/
+[go]http://skycloud-exchange.derekwebdev.com/#/{:target="_blank" rel="noopener"}
 
 SkyCloud-Exchange allows you to instantly trade ERC-20 tokens that are native to the Ethereum Network 
 
