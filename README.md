@@ -4,6 +4,10 @@ ERC-20 Instant Crypto Exchange on the Ethereum Blockchain
 
 ![Final App](https://github.com/derekwebdevcom/SkyCloud-Exchange/blob/master/sky.gif)
 
+# Live Demo with Metamask Extension
+
+http://skycloud-exchange.derekwebdev.com/#/
+
 SkyCloud-Exchange allows you to instantly trade ERC-20 tokens that are native to the Ethereum Network 
 
 This project uses the following technologies:
