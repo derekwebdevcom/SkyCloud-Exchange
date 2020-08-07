@@ -28,3 +28,6 @@ It can be installed via Node.js with the command "npm i -g truffle"
 
 // NPM install and Truffle Migrate to deploy your Smart Contract to your local Blockchain. Client Application ports on
  http://localhost:3000
+## Quick Start for deploying to test network visit the following link for updated information
+
+ https://www.trufflesuite.com/tutorials/using-infura-custom-provider
